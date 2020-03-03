@@ -1,0 +1,24 @@
+/*
+    Theme Name: underscores child
+    Template: underscores 
+    Version: 0.1.1
+*/
+header {
+  height: 100vh;
+  background-image: url(https://picsum.photos/1000/1500);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed; }
+
+.container-img-profile {
+  position: relative; }
+  .container-img-profile .img-profile {
+    position: absolute;
+    top: -4em;
+    left: 50%;
+    padding: 1em; }
+    .container-img-profile .img-profile img {
+      border: 1px solid white;
+      border-radius: 50%; }
+
+/*# sourceMappingURL=style.css.map */
