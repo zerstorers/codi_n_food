@@ -10,15 +10,39 @@ header {
   background-size: cover;
   background-attachment: fixed; }
 
+.nav-header a {
+  text-decoration: none;
+  color: white; }
+
+.header-icon {
+  color: white; }
+
+.nav-footer a {
+  text-decoration: none;
+  color: black; }
+
+.footer-icon {
+  color: #53c353; }
+
 .container-img-profile {
   position: relative; }
   .container-img-profile .img-profile {
     position: absolute;
-    top: -4em;
-    left: 50%;
-    padding: 1em; }
+    top: -2em;
+    left: 44%;
+    padding: .2em;
+    border-radius: 50%; }
     .container-img-profile .img-profile img {
       border: 1px solid white;
       border-radius: 50%; }
+
+.our-journey {
+  padding: 7rem; }
+
+.contact-us {
+  background-image: url(https://picsum.photos/1000/1500);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10rem; }
 
 /*# sourceMappingURL=style.css.map */

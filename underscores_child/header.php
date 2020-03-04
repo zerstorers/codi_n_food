@@ -30,15 +30,15 @@
 					<h2>codi'n food</h2>
 				</div>
 				
-				<nav class="w-50 text-right">
+				<nav class="w-50 text-right nav-header">
 					<ul class="d-flex justify-content-end justify-content-around list-unstyled">
 						<li><a href="">HOME</a></li>
 						<li><a href="">ABOUT</a></li>
 						<li><a href="">SHOP</a></li>
 						<li><a href="">BLOG</a></li>
 						<li><a href="">CONTACT</a></li>
-						<li><i class="fas fa-wallet"></i></li>
-						<li><i class="fas fa-search"></i></li>
+						<li><i class="header-icon fas fa-wallet"></i></li>
+						<li><i class="header-icon fas fa-search"></i></li>
 
 					</ul>
 				</nav>
